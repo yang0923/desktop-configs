@@ -4,3 +4,6 @@
 [submodule "glazewm-zebar-config"]
 	path = glazewm-zebar-config
 	url = https://github.com/yang0923/glazewm-zebar-config.git
+[submodule "yasb-config"]
+	path = yasb-config
+	url = https://github.com/yang0923/yasb-config.git
