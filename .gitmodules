@@ -1,3 +1,6 @@
 [submodule "lazyvim-config"]
 	path = lazyvim-config
 	url = https://github.com/yang0923/lazyvim-config.git
+[submodule "glazewm-zebar-config"]
+	path = glazewm-zebar-config
+	url = https://github.com/yang0923/glazewm-zebar-config.git
