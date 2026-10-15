@@ -4,15 +4,6 @@
 
 本仓库作为所有配置仓库的统一入口，通过 Git 子模块聚合各个独立项目，方便集中查看、管理和维护。每个配置项目都有自己的 Git 仓库，可以独立开发、更新和版本控制。
 
-## 配置仓库
-
-| 仓库 | 说明 |
-| --- | --- |
-| [Neovim / LazyVim](./lazyvim-config) | 基于 LazyVim 的 Neovim 配置 |
-| [GlazeWM](./glazewm) | Windows 平铺窗口管理与键盘操作配置 |
-| [YASB](./yasb) | Windows 状态栏、组件与样式配置 |
-
-各配置仓库独立维护，并通过 Git 子模块关联到本仓库。
 
 ## 配置理念
 
@@ -27,11 +18,9 @@
 克隆本仓库及其所有子模块：
 
 ```bash
-git clone --recurse-submodules https://github.com/你的用户名/desktop-configs.git
+git clone --recurse-submodules https://github.com/yang0923/desktop-configs.git
 cd desktop-configs
 ```
-
-请将 `你的用户名` 替换为实际的 GitHub 用户名。
 
 如果已经克隆本仓库，但尚未初始化子模块，可以执行：
 
