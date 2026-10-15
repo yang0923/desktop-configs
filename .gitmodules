@@ -7,3 +7,6 @@
 [submodule "yasb-config"]
 	path = yasb-config
 	url = https://github.com/yang0923/yasb-config.git
+[submodule "windhawk-config"]
+	path = windhawk-config
+	url = https://github.com/yang0923/windhawk-config.git
