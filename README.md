@@ -8,7 +8,7 @@
 
 | 仓库 | 说明 |
 | --- | --- |
-| [Neovim / LazyVim](./nvim) | 基于 LazyVim 的 Neovim 配置 |
+| [Neovim / LazyVim](./lazyvim-config) | 基于 LazyVim 的 Neovim 配置 |
 | [GlazeWM](./glazewm) | Windows 平铺窗口管理与键盘操作配置 |
 | [YASB](./yasb) | Windows 状态栏、组件与样式配置 |
 
